@@ -11,15 +11,16 @@ This is a simple Java To-Do List application that allows users to add, delete, a
 ## How to Run the Project
 
 ### For Console Application:
-```bash
+bash
 javac ToDoListGUI.java
 java ToDoListGUI
 
-**## Features**
-Add and remove tasks
+Features
 
-Mark tasks as completed
+1.Add and remove tasks
 
-View all tasks
+2.Mark tasks as completed
 
-Save/load task list
+3.View all tasks
+
+4.Save/load task list
