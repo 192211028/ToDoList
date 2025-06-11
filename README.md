@@ -3,7 +3,7 @@
 ##  Description
 This is a simple Java To-Do List application that allows users to add, delete, and mark tasks as complete. It uses basic Java data structures and file handling.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Java
 - ArrayList
 - File I/O
